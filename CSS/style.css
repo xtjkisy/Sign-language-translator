@@ -189,11 +189,13 @@ button:active {
 }
 
 #proceedButton {
-  top: 90%;
+  top: 60%;
   transform: translate(-50%, 0%);
   left: 50%;
   position: fixed;
   display: none;
+  color: #000000;
+  background: green;
 }
 
 #startButton {
